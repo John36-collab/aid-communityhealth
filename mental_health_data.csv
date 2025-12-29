@@ -1,0 +1,26 @@
+Age,Gender,Diagnosis,Symptom Severity (1-10),Mood Score (1-10),Sleep Quality (1-10),Physical Activity (hrs/week),Medication,Therapy Type,Treatment Duration (weeks),Stress Level (1-10),Outcome,Treatment Progress (1-10),AI-Detected Emotional State,Adherence to Treatment (%)
+43,Female,Major Depressive Disorder,10,5,8,5,Mood Stabilizers,Interpersonal Therapy,11,9,Deteriorated,7,Anxious,66
+40,Female,Major Depressive Disorder,9,5,4,7,Antipsychotics,Interpersonal Therapy,11,7,No Change,7,Neutral,78
+55,Female,Major Depressive Disorder,6,3,4,3,SSRIs,Mindfulness-Based Therapy,14,7,Deteriorated,5,Happy,62
+34,Female,Major Depressive Disorder,6,3,6,5,SSRIs,Mindfulness-Based Therapy,8,8,Deteriorated,10,Excited,72
+52,Male,Panic Disorder,7,6,6,8,Anxiolytics,Interpersonal Therapy,12,5,Deteriorated,6,Excited,63
+28,Male,Panic Disorder,8,7,6,4,SSRIs,Cognitive Behavioral Therapy,13,9,No Change,7,Stressed,82
+59,Male,Generalized Anxiety,6,6,5,3,Mood Stabilizers,Dialectical Behavioral Therapy,13,8,Deteriorated,5,Anxious,79
+32,Female,Major Depressive Disorder,5,3,5,2,Antidepressants,Cognitive Behavioral Therapy,12,5,No Change,6,Stressed,74
+21,Female,Major Depressive Disorder,6,7,7,10,Antidepressants,Mindfulness-Based Therapy,15,5,No Change,6,Neutral,67
+21,Female,Panic Disorder,9,5,9,7,Antidepressants,Cognitive Behavioral Therapy,11,8,No Change,8,Depressed,89
+42,Female,Panic Disorder,6,6,7,2,Antidepressants,Mindfulness-Based Therapy,11,5,Deteriorated,8,Stressed,72
+54,Female,Panic Disorder,8,8,5,5,Antidepressants,Mindfulness-Based Therapy,10,8,Deteriorated,10,Happy,82
+46,Female,Generalized Anxiety,7,4,9,4,Anxiolytics,Interpersonal Therapy,8,9,No Change,7,Neutral,74
+19,Male,Bipolar Disorder,6,7,9,10,Antipsychotics,Dialectical Behavioral Therapy,9,10,Deteriorated,10,Excited,75
+23,Female,Panic Disorder,9,8,6,1,Antipsychotics,Dialectical Behavioral Therapy,10,7,Deteriorated,6,Stressed,72
+38,,Generalized Anxiety,10,3,8,2,Mood Stabilizers,Interpersonal Therapy,15,5,Improved,7,Depressed,69
+30,Male,Bipolar Disorder,10,8,5,5,Mood Stabilizers,Mindfulness-Based Therapy,9,9,No Change,6,Depressed,86
+28,Female,Bipolar Disorder,8,4,7,6,SSRIs,Mindfulness-Based Therapy,9,8,No Change,6,Depressed,78
+52,Female,Generalized Anxiety,7,3,4,9,Anxiolytics,Mindfulness-Based Therapy,12,6,No Change,5,Happy,84
+37,Male,Bipolar Disorder,5,5,4,5,Mood Stabilizers,Dialectical Behavioral Therapy,15,9,Deteriorated,6,Anxious,67
+19,Male,Major Depressive Disorder,8,4,5,7,Benzodiazepines,Cognitive Behavioral Therapy,14,5,Improved,5,Depressed,67
+41,Female,Bipolar Disorder,5,7,9,7,Antidepressants,Interpersonal Therapy,9,9,Improved,5,Anxious,65
+50,Male,Generalized Anxiety,7,4,5,1,Anxiolytics,Interpersonal Therapy,16,10,Deteriorated,10,Stressed,89
+53,Female,Panic Disorder,9,5,9,10,Anxiolytics,Mindfulness-Based Therapy,16,8,Deteriorated,9,Neutral,66
+60,Male,Major Depressive Disorder,9,6,5,8,Anxiolytics,Interpersonal Therapy,13,9,No Change,7,Anxious,74
