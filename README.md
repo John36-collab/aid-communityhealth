@@ -4,16 +4,7 @@ AI Health Assistance Community
 
 Project Overview
 
-AI Health Assistance Community is a web-based platform designed to provide mental health support and prediction using AI and Machine Learning. The system combines:
-
-Lovable-powered frontend: Chatbot for user interaction, mental health guidance, and support.
-
-Machine Learning backend: Predicts mental health outcomes using historical datasets.
-
-Community insights: Users can contribute, track progress, and follow treatment plans.
-
-
-This project aims to bridge the gap between mental health awareness and actionable insights through AI, data analytics, and accessible web interfaces.
+AI Health Assistance Community is a web-based platform designed to provide mental health support and prediction using AI
 
 
 ---
