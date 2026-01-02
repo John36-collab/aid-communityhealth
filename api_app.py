@@ -46,8 +46,11 @@ class PatientInput(BaseModel):
 async def verify_supabase_token(token: str) -> dict:
     """Verify JWT token with Supabase Auth"""
     if not SUPABASE_URL or not SUPABASE_ANON_KEY:
-        logger.warning("Supabase configuration missing - authentication disabled")
-        return {"sub": "anonymous", "authenticated": False}
+        logger.error("Supabase configuration missing - authentication unavailable")
+        raise HTTPException(
+            status_code=500,
+            detail="Server configuration error - authentication unavailable"
+        )
     
     try:
         async with httpx.AsyncClient() as client:
@@ -63,7 +66,7 @@ async def verify_supabase_token(token: str) -> dict:
             else:
                 return None
     except Exception as e:
-        logger.error(f"Token verification failed: {str(e)}")
+        logger.error(f"Token verification error")
         return None
 
 async def get_current_user(credentials: HTTPAuthorizationCredentials = Security(security)):
