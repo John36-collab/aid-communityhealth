@@ -1,1 +1,1 @@
-Live demo: [{](https://aid-communityhealth.lovable.app)}
+Live demo: [https://aid-communityhealth.lovable.app}
